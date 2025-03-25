@@ -1,0 +1,5 @@
+Data/
+chroma_db/
+__pycache__/
+.gradio/
+venv/
